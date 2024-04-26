@@ -1,0 +1,45 @@
+.calculator{
+    text-align: center;
+    
+}
+.form{
+    background-color: rgb(87, 86, 84);
+    padding: 20px;
+    margin-left: 38%;
+    margin-right: 36%;
+  margin-top: 0px;
+}
+.text{
+background-color: rgb(234, 239, 245);
+border-color: black;
+padding: 10px 42px 10px 42px;
+
+}
+.text1{
+    padding: 1%;
+    text-align: center;
+}
+
+.btn{
+   height: 60px;
+   width: 60px;
+   border-radius: 1px;
+  }
+  
+  .btn1{
+    height: 60px;
+    width: 60px;
+    border-radius: 1px;
+    background-color: red;
+  }
+  .btn2{
+    height: 60px;
+    width: 60px;
+    border-radius: 1px;
+    background-color: black;
+    color: white;
+  }
+  .buttons{
+    text-align: center;
+   
+  }
